@@ -1,0 +1,7 @@
+accelerate
+datasets 
+evaluate 
+jupyter
+matplotlib
+scikit-learn
+transformers
